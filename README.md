@@ -21,8 +21,7 @@ This project provisions a simple and secure AWS-based pipeline using Terraform. 
 
 ### 1. Clone the repo
 
-git clone git@github.com:zunderStake/xFarm.git
-
+git clone --branch stable https://github.com/zunderStake/xFarm.git <br>
 cd xFarm
 
 ### 2. Package the Lambda function
