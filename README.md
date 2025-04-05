@@ -26,14 +26,14 @@ git clone git@github.com:zunderStake/xFarm.git
 cd xFarm
 
 ### 2. Package the Lambda function
-cd lambda
-zip ../lambda_function_payload.zip handler.py
+cd lambda <br>
+zip ../lambda_function_payload.zip handler.py <br>
 cd ..
 
 ### 3. Initialize and deploy
-terraform init
-terraform plan
-terraform apply
+terraform init <br>
+terraform plan <br>
+terraform apply <br>
 
 ---
 
